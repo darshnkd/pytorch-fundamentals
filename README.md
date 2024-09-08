@@ -1,4 +1,4 @@
-# [PyTorch Fundamentals](Your-Repository-Link-Here)
+# [PyTorch Fundamentals](https://github.com/darshnkd/pytorch-fundamentals/blob/main/pytorch_fundamentals.ipynb)
 
 This repository demonstrates essential PyTorch features such as:
 
@@ -55,5 +55,5 @@ You can run all the examples in this repository using Google Colab.
 - **Google Colab**  
   No installation is required. All you need is a Google account to access Google Colab, where you can execute PyTorch code with free access to GPU acceleration.
 
-Simply open the provided `.ipynb` files in Colab and start running the cells!
+Simply open the provided `pytorch_fundamentals.ipynb` files in Colab and start running the cells!
 
