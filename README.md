@@ -3,10 +3,10 @@
 This repository demonstrates essential PyTorch features such as:
 
 - Creating and manipulating tensors
-- Tensor operations (addition, multiplication, etc.)
+- Tensor operations
 - Matrix multiplication
 - Tensor reshaping and indexing
-- Tensor aggregation functions (min, max, mean, etc.)
+- Tensor aggregation functions 
 - Interaction with NumPy
 - GPU acceleration with CUDA
 - Reproducibility with manual seed
