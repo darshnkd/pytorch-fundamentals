@@ -3,11 +3,11 @@
 This repository demonstrates essential PyTorch features such as:
 
 - Creating and manipulating tensors
-- Getting information from tensors (tensor attributes)
-- Tensor operations (addition, multiplication, etc.)
+- Getting information from tensors
+- Tensor operations
 - Matrix multiplication
 - Tensor reshaping and indexing
-- Tensor aggregation functions (min, max, mean, etc.)
+- Tensor aggregation functions 
 - Finding the positional min and max
 - Dealing with tensor datatypes
 - Interaction with NumPy
